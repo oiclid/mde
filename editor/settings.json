@@ -1,0 +1,17 @@
+{
+  "telemetry.telemetryLevel": "off",
+  "update.mode": "none",
+  "python.analysis.typeCheckingMode": "basic",
+  "workbench.colorTheme": "Default High Contrast",
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "'Fira Code', monospace",
+  "terminal.integrated.fontFamily": "'JetBrains Mono'",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "450",
+  "editor.fontLigatures": true,
+  "application.shellEnvironmentResolutionTimeout": 30,
+  "workbench.colorCustomizations": {
+    "contrastActiveBorder": "#00000000",
+    "editor.lineHighlightBackground": "#1a1a1a"
+  }
+}
